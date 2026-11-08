@@ -1,0 +1,1 @@
+"Given some text to test from repo\n * condtion to check\n And some clause\nThen checkpoint 1"
