@@ -1,1 +1,5 @@
-"Given some text to test from repo\n * condtion to check\n And some clause\nThen checkpoint 1"
+Given some text to test from repo\
+* condtion to check
+And some clause
+Then checkpoint 1
+But else condition
